@@ -1,0 +1,20 @@
+modules:
+  jira:issuePanel:
+    - key: devops-hello-world-issue-panel
+      resource: main
+      resolver:
+        function: resolver
+      render: native
+      title: devops
+      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+  function:
+    - key: resolver
+      handler: index.handler
+resources:
+  - key: main
+    path: src/frontend/index.jsx
+app:
+  id: ari:cloud:ecosystem::app/800d4614-c102-4930-8587-a262ff7f4082
+permissions:
+  scopes:
+    - read:jira-work
