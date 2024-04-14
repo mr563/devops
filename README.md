@@ -28,6 +28,12 @@ forge install
 ```
 forge tunnel
 ```
+## Installation
+
+To install project dependencies, run the following command in your terminal:
+
+```bash
+
 
 ### Notes
 - Use the `forge deploy` command when you want to persist code changes.
