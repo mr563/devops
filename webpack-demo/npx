@@ -1,0 +1,9 @@
+asset [1m[32manother.bundle.js[39m[22m 554 KiB [1m[32m[emitted][39m[22m (name: another)
+asset [1m[32mvendors-node_modules_lodash_lodash_js.bundle.js[39m[22m 550 KiB [1m[33m[compared for emit][39m[22m (id hint: vendors)
+asset [1m[32mindex.bundle.js[39m[22m 14.3 KiB [1m[32m[emitted][39m[22m (name: index)
+runtime modules 9.25 KiB 17 modules
+cacheable modules 532 KiB
+  [1m./src/index.js[39m[22m 329 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./src/another-module.js[39m[22m 86 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./node_modules/lodash/lodash.js[39m[22m 531 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.91.0 compiled [1m[32msuccessfully[39m[22m in 708 ms

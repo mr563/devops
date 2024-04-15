@@ -38,7 +38,7 @@ To install project dependencies, run the following command in your terminal:
 ### Notes
 - Use the `forge deploy` command when you want to persist code changes.
 - Use the `forge install` command when you want to install the app on a new site.
-- Once the app is installed on a site, the site picks up the new app changes you deploy without needing to rerun the install command.
+- Once the app is installed on a site, the site picks up the new app changes you deploy without needing to rerun the install command..
 
 ## Support
 
