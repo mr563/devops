@@ -1,18 +1,18 @@
 {
   "name": "jira-issue-panel-ui-kit-2",
-  "version": "1.0.26", // update version number
+  "version": "1.0.26", 
   "private": true,
   "license": "MIT",
   "scripts": {
     "lint": "eslint src/**/*",
-    "test": "jest" // Added a test script using Jest
+    "test": "jest" 
   },
   "devDependencies": {
     "css-loader": "^7.1.1",
     "eslint": "^8.56.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "style-loader": "^4.0.0",
-     "jest": "^27.0.0" // Added Jest as a devDependency for testing
+     "jest": "^27.0.0" 
   },
   "dependencies": {
     "@forge/api": "^3.3.0",
