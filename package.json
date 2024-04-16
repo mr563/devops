@@ -1,6 +1,6 @@
 {
   "name": "jira-issue-panel-ui-kit-2",
-  "version": "1.0.26", 
+  "version": "1.0.40", 
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -8,18 +8,15 @@
     "test": "jest" 
   },
   "devDependencies": {
-    "css-loader": "^7.1.1",
     "eslint": "^8.56.0",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "style-loader": "^4.0.0",
-     "jest": "^27.0.0" 
+    "jest": "^27.0.0" 
   },
   "dependencies": {
     "@forge/api": "^3.3.0",
     "@forge/bridge": "^3.3.0",
     "@forge/react": "^10.1.0",
-    "@forge/resolver": "^1.5.29",
-    "react": "^18.2.0"
+    "@forge/resolver": "^1.5.29"      
    
   },
   "description": "This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira issue panel.",
